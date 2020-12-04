@@ -1,2 +1,2 @@
-# Python_and_Statistics_for_Financial_Analysis
+# Python and Statistics for Financial Analysis
 A practice and solutions Jupyter notebook (University of Hong Kong Course)
